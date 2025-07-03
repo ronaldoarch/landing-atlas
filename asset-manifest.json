@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/landing-atlas/static/css/main.1d3e1106.css",
+    "main.js": "/landing-atlas/static/js/main.beec5304.js",
+    "static/js/584.915d77e2.chunk.js": "/landing-atlas/static/js/584.915d77e2.chunk.js",
+    "service-worker.js": "/landing-atlas/service-worker.js",
+    "index.html": "/landing-atlas/index.html",
+    "main.1d3e1106.css.map": "/landing-atlas/static/css/main.1d3e1106.css.map",
+    "main.beec5304.js.map": "/landing-atlas/static/js/main.beec5304.js.map",
+    "584.915d77e2.chunk.js.map": "/landing-atlas/static/js/584.915d77e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d3e1106.css",
+    "static/js/main.beec5304.js"
+  ]
+}
